@@ -4,6 +4,7 @@ This is a simple application using Vue.js that collects information about random
 
 image::/app.png?raw=true[A map , 400, align="center",home page image]
 
-Sources:
+Click https://michael-mb.github.io/Random_user_generator/[here] to test the app
 
+Sources:
 https://randomuser.me/[random user api]
