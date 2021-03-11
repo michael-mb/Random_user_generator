@@ -1,0 +1,9 @@
+= Simple Random USER GENERATOR
+
+This is a simple application using Vue.js that collects information about random users via an api, and displays it.
+
+image::/app.png?raw=true[A map , 400, align="center",home page image]
+
+Sources:
+
+https://randomuser.me/[random user api]
